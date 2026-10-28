@@ -1,0 +1,13 @@
+
+{
+  "name": "jv-auto-likes-api",
+  "version": "1.0.0",
+  "description": "API do JV Auto Likes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
